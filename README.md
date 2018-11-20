@@ -1,5 +1,5 @@
 # Hierarchical Reinforcement Learning for Course Recommendation in MOOCs
-This is basic implementation of our AAAI'19 paper
+This is the basic implementation of our AAAI'19 paper
 
 Jing Zhang, Bowen Hao, Bo Chen, Cuiping Li*, Hong Chen, Jimeng Sun
 
@@ -8,9 +8,9 @@ Jing Zhang, Bowen Hao, Bo Chen, Cuiping Li*, Hong Chen, Jimeng Sun
 * Python 3 / Python 2.7
 * Tensorflow
 
-Note: Running this code you should either use tensorflow-gpu or use tensorflow-cpu.
+Note: You can either use tensorflow-gpu or tensorflow-cpu to run this code. 
 
-The dataset will be published later
+The dataset will be published later.
 
 ## How to run
 
