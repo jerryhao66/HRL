@@ -10,12 +10,13 @@ Jing Zhang, Bowen Hao, Bo Chen, Cuiping Li*, Hong Chen, Jimeng Sun
 
 Note: You can either use tensorflow-gpu or tensorflow-cpu to run this code. 
 
-The dataset will be published later.
+The dataset will be avaliable at http://moocdata.cn/data/course-recommendation .
 
 ## How to run
 
 ```
 python Train.py
 ```
+
 
 
